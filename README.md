@@ -1,7 +1,16 @@
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=lalinealin&theme=dark&hide_border=false&include_all_commits=false&count_private=true)
-![](https://nirzak-streak-stats.vercel.app/?user=lalinealin&theme=dark&hide_border=false)<br/>
+# 📊 GitHub Stats
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=lalinealin&theme=dark&hide_border=false&include_all_commits=false&count_private=true" />
+    </td>
+    <td>
+      <img src="https://nirzak-streak-stats.vercel.app/?user=lalinealin&theme=dark&hide_border=false" />
+    </td>
+  </tr>
+</table>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=lalinealin&theme=radical&no-frame=true&no-bg=false&margin-w=4)
